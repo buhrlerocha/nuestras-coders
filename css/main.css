@@ -1,0 +1,55 @@
+/* Inserta tu código aqui */
+.contenedor{
+	
+}
+.box {
+	float: left;
+	margin: 10px;
+	position: relative;
+}
+span {
+	color: white;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+}
+
+.foto1 {
+	background-image: url(../img/profile-1.png);
+	width:200px;
+	height: 200px;
+
+}
+
+.foto2 {
+	background-image: url(../img/profile-2.png);
+	width:200px;
+	height: 200px;
+	
+}
+
+.foto3 {
+	background-image: url(../img/profile-3.png);
+	width:200px;
+	height: 200px;
+	
+}
+.foto4 {
+	background-image: url(../img/profile-4.png);
+	width:200px;
+	height: 200px;
+    clear: left;
+}
+
+.foto5 {
+	background-image: url(../img/profile-5.png);
+	width:200px;
+	height: 200px;
+	
+}
+.foto6 {
+	background-image: url(../img/profile-6.png);
+	width:200px;
+	height: 200px;
+	
+}
